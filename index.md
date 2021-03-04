@@ -39,7 +39,7 @@ Databases, COSC-355 Network Science, or taking an independent study with Matteo.
 
 (Most recent first, then alphabetical by last name)
 
-* Konrad Kuklinsky'21 (Spring'19--Fall'20), worked on VC-dimension for
+* Conrad Kuklinsky'21 (Spring'19--Fall'20), worked on VC-dimension for
     intersections of range spaces.
 
 * Kathleen Isenegger'20 (Fall'19--Spring'20), honors thesis on *"Approximate
