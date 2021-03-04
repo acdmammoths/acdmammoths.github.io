@@ -1,0 +1,7 @@
+---
+---
+
+@import "{{ site.theme }}";
+a {
+  color: #3f1f69;
+}
