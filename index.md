@@ -32,7 +32,7 @@ Databases, COSC-355 Network Science, or taking an independent study with Matteo.
 
 * Stefan Walzer-Goldfeld'23 (Fall'20--), scalable algorithms for cube sampling.
 
-* Chloe Wohlgemuth'21 (Fall'20--), sampling-based algorithms for centrality
+* Chloe Wohlgemuth'22 (Fall'20--), sampling-based algorithms for centrality
     approximations in graphs.
 
 ## Alumni
