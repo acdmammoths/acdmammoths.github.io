@@ -15,6 +15,8 @@ Our research is sponsored, in part, by the National Science Foundation under
 You can often find us in courses such as COSC-254 Data Mining, COSC-257
 Databases, COSC-355 Network Science, or taking an independent study with Matteo.
 
+![Data Mammoths at work!](img/matteoconrad.png?raw=true)
+
 ## Members
 
 * (Prof.) [Matteo](http://matteo.rionda.to) (Riondato),
