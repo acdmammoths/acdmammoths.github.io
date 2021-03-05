@@ -54,6 +54,7 @@ Databases, COSC-355 Network Science, or taking an independent study with Matteo.
 If you are an Amherst student, and are interested in mixing data, computer
 science, probability, and statistics, please contact Matteo. You must have taken
 or being currently enrolled in COSC-211 Data Structures. Having taken one or
-more courses in probability and/or statistics (e.g., STAT-135) is a plus, but
-not necessary, although it would likely require you to spend a semester learning
-probability, possibly in an independent study course with Matteo.
+more courses in probability and/or statistics (e.g., STAT-135, COSC-223,
+MATH/STAT-360) is a plus, but not necessary, although if you haven't, it is
+likely that you will have to spend a semester learning probability, possibly in
+an independent study course with Matteo.
