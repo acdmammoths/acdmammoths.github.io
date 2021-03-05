@@ -17,7 +17,8 @@ Databases, COSC-355 Network Science, or taking an independent study with Matteo.
 
 ## Members
 
-* (Prof.) [Matteo](http://matteo.rionda.to) (Riondato), directing the orchestra.
+* (Prof.) [Matteo](http://matteo.rionda.to) (Riondato),
+    [mahout](https://en.wikipedia.org/wiki/Mahout) of the herd.
 
 * Isaac Caruso'21 (Fall'20--), honors thesis on *"Modeling Biological Species
     Presence with Gaussian Processes"*.
