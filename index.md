@@ -24,8 +24,8 @@ Databases, COSC-355 Network Science, or taking an independent study course
 * (Prof.) [Matteo](http://matteo.rionda.to) (Riondato),
     [mahout](https://en.wikipedia.org/wiki/Mahout) of the herd.
 
-* Isaac Caruso'21 (Fall'20--), honors thesis on *"Modeling Biological Species
-    Presence with Gaussian Processes"*.
+* [Isaac Caruso](https://acdmammoths.github.io/)'21 (Fall'20--), honors thesis
+     on *"Modeling Biological Species Presence with Gaussian Processes"*.
 
 * Steedman Jenkins'23 (Spring'21--), currently learning about probability and
     computer science.
