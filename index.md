@@ -4,7 +4,8 @@ mostly in the [Computer Science](http://cs.amherst.edu) department.
 
 We work on creating and learning about algorithms for *"everything data"*: data
 mining, network science, machine learning, data science, knowledge discovery,
-and databases.
+and databases. You can read more about what we do in the [Q&A with
+Matteo](https://www.amherst.edu/news/news_releases/2020/9-2020/computer-science-for-science).
 
 The methods we develop often leverage randomness (e.g., sampling) and offer
 strong guarantees on their performance.
