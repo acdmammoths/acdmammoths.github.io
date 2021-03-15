@@ -51,8 +51,8 @@ Databases, COSC-355 Network Science, or taking an independent study course
 * Kathleen Isenegger'20 (Fall'19--Spring'20), honors thesis on *"Approximate
     Mining of High-Utility Itemsets through Sampling"*.
 
-* Shukry Zablah'20 (Fall'19--Spring'20), honors thesis on *"A Parallel Algorithm
-    for Balanced Sampling"*.
+* [Shukry Zablah'20](https://www.shukryzablah.com) (Fall'19--Spring'20), honors
+    thesis on *"A Parallel Algorithm for Balanced Sampling"*.
 
 ## How to join
 
