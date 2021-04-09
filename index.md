@@ -69,6 +69,6 @@ MATH/STAT-360) is a plus, but not necessary, although if you haven't, it is
 likely that you will have to spend a semester learning probability, possibly in
 an independent study course with Matteo.
 
-## 🐘 💜 💾 We love data!
+## 🐘 💜 💾  We love data!
 
 [//]: # "Comment: :elephant: :purple_heart: :floppy_disk:"
