@@ -19,7 +19,7 @@ papers, you can find us in courses such as COSC-254 Data Mining, COSC-257
 Databases, COSC-355 Network Science, or taking an independent study course
 (COSC-490) with Matteo.
 
-:elephant: :purple_heart: :floppy_disk:
+[//]: # "Comment: :elephant: :purple_heart: :floppy_disk:"
 
  [^1]: That's the reason for the `*` in `Data*`, as `X*` means "everything X",
  in computer science jargon.
