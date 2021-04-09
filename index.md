@@ -1,3 +1,5 @@
+🐘 💜 💾
+
 We are a **research and learning** group led by [Prof. Matteo
 Riondato](http://matteo.rionda.to) at [Amherst College](http://www.amherst.edu),
 mostly in the [Computer Science](http://cs.amherst.edu) department.
