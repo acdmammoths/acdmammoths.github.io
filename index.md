@@ -25,7 +25,7 @@ Databases, COSC-355 Network Science, or taking an independent study course
 
  [^1]: That's the reason for the `*` in `Data*`, as `X*` means "everything X", in computer science jargon.
 
-![Data Mammoths at work!](img/matteoconrad.png)
+![Data* Mammoths at work: Matteo and Conrad working on graph algorithms at the whiteboard](img/matteoconrad.png)
 
 ## Members
 
