@@ -21,8 +21,7 @@ Databases, COSC-355 Network Science, or taking an independent study course
 
 [//]: # "Comment: :elephant: :purple_heart: :floppy_disk:"
 
- [^1]: That's the reason for the `*` in `Data*`, as `X*` means "everything X",
- in computer science jargon.
+ [^1]: That's the reason for the `*` in `Data*`, as `X*` means "everything X", in computer science jargon.
 
 ![Data Mammoths at work!](img/matteoconrad.png)
 
