@@ -50,8 +50,11 @@ Databases, COSC-355 Network Science, or taking an independent study course
 
 [//]: # "Comment: Most recent first, then alphabetical by last name"
 
-* Conrad Kuklinsky'21 (Spring'19--Fall'20), worked on VC-dimension for
-    intersections of half-spaces.
+* Conrad Kuklinsky'21 (Spring'19--Fall'20), VC-dimension for intersections of
+    half-spaces.
+
+* Margaret Drew'22 (Summer'20), assignments and videos for the COSC-111
+    Introduction to Computer Science 1 course.
 
 * Kathleen Isenegger'20 (Fall'19--Spring'20), honors thesis on *"Approximate
     Mining of High-Utility Itemsets through Sampling"*.
