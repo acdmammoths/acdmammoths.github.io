@@ -1,5 +1,3 @@
-🐘 💜 💾
-
 We are a **research and learning** group led by [Prof. Matteo
 Riondato](http://matteo.rionda.to) at [Amherst College](http://www.amherst.edu),
 mostly in the [Computer Science](http://cs.amherst.edu) department.
@@ -20,8 +18,6 @@ When we are not working together at the whiteboard, writing code, or reading
 papers, you can find us in courses such as COSC-254 Data Mining, COSC-257
 Databases, COSC-355 Network Science, or taking an independent study course
 (COSC-490) with Matteo.
-
-[//]: # "Comment: :elephant: :purple_heart: :floppy_disk:"
 
  [^1]: That's the reason for the `*` in `Data*`, as `X*` means "everything X", in computer science jargon.
 
@@ -72,3 +68,7 @@ more courses in probability and/or statistics (e.g., STAT-135, COSC-223,
 MATH/STAT-360) is a plus, but not necessary, although if you haven't, it is
 likely that you will have to spend a semester learning probability, possibly in
 an independent study course with Matteo.
+
+## 🐘 💜 💾 We love data!
+
+[//]: # "Comment: :elephant: :purple_heart: :floppy_disk:"
