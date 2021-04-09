@@ -2,10 +2,11 @@ We are a **research and learning** group led by [Prof. Matteo
 Riondato](http://matteo.rionda.to) at [Amherst College](http://www.amherst.edu),
 mostly in the [Computer Science](http://cs.amherst.edu) department.
 
-We work on creating and learning about algorithms for *"everything data"*: data
-mining, network science, machine learning, data science, knowledge discovery,
-and databases. You can read more about what we do in the [Q&A with
-Matteo](https://www.amherst.edu/news/news_releases/2020/9-2020/computer-science-for-science).
+We create and learn about algorithms for *"everything data"*:[^1] data mining,
+network science, machine learning, data science, knowledge discovery, databases,
+and much more. You can read more about what we do in the [Q&A with
+Matteo](https://www.amherst.edu/news/news_releases/2020/9-2020/computer-science-for-science)
+for the college website.
 
 The methods we develop often leverage randomness (e.g., sampling) and offer
 strong guarantees on their performance.
@@ -18,12 +19,19 @@ papers, you can find us in courses such as COSC-254 Data Mining, COSC-257
 Databases, COSC-355 Network Science, or taking an independent study course
 (COSC-490) with Matteo.
 
+:elephant: :purple_heart: :floppy_disk:
+
+ [^1]: That's the reason for the `*` in `Data*`, as `X*` means "everything X",
+ in computer science jargon.
+
 ![Data Mammoths at work!](img/matteoconrad.png)
 
 ## Members
 
 * (Prof.) [Matteo](http://matteo.rionda.to) (Riondato),
     [mahout](https://en.wikipedia.org/wiki/Mahout) of the herd.
+
+[//]: # "Comment: alphabetical by last name"
 
 * [Isaac Caruso](https://icaruso21.github.io/)'21 (Fall'20--), honors thesis
      on *"Modeling Biological Species Presence with Gaussian Processes"*.
@@ -43,7 +51,7 @@ Databases, COSC-355 Network Science, or taking an independent study course
 
 ## Alumni
 
-(Most recent first, then alphabetical by last name)
+[//]: # "Comment: Most recent first, then alphabetical by last name"
 
 * Conrad Kuklinsky'21 (Spring'19--Fall'20), worked on VC-dimension for
     intersections of half-spaces.
