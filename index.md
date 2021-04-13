@@ -15,9 +15,15 @@ Our research is sponsored, in part, by the National Science Foundation under
 [award #2006765](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2006765).
 
 When we are not working together at the whiteboard, writing code, or reading
-papers, you can find us in courses such as COSC-254 Data Mining, COSC-257
-Databases, COSC-355 Network Science, or taking an independent study course
-(COSC-490) with Matteo.
+papers, you can find us in courses such as [COSC-254 Data
+Mining](https://www.amherst.edu/academiclife/departments/courses/2021S/COSC/COSC-254-2021S),
+[COSC-257
+Databases](https://www.amherst.edu/academiclife/departments/courses/1920F/COSC/COSC-257-1920F),
+[COSC-355 Network
+Science](https://www.amherst.edu/academiclife/departments/courses/1920S/COSC/COSC-355-1920S),
+or taking an independent study course (COSC-490) with Matteo.
+
+[//]: # "Comment: the footnote below must be all in a single line"
 
  [^1]: That's the reason for the `*` in `Data*`, as `X*` means "everything X", in computer science jargon.
 
