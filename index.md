@@ -36,8 +36,8 @@ or taking an independent study course (COSC-490) with Matteo.
 
 [//]: # "Comment: alphabetical by last name"
 
-* Maryam Abuissa'24, teaching materials for the COSC-111 Introduction to
-    Computer Science 1 course.
+* Maryam Abuissa'24 (Summer'21--), teaching materials for the COSC-111
+    Introduction to Computer Science 1 course.
 
 * Steedman Jenkins'23 (Spring'21--), mining statistically-significant patterns.
 
