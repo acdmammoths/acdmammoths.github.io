@@ -36,18 +36,18 @@ or taking an independent study course (COSC-490) with Matteo.
 
 [//]: # "Comment: alphabetical by last name"
 
-* [Isaac Caruso](https://icaruso21.github.io/)'21 (Fall'20--), honors thesis
-     on *"Modeling Biological Species Presence with Gaussian Processes"*.
+* Maryam Abuissa'24, teaching materials for the COSC-111 Introduction to
+    Computer Science 1 course.
 
-* Steedman Jenkins'23 (Spring'21--), currently learning about probability and
-    computer science.
+* Steedman Jenkins'23 (Spring'21--), mining statistically-significant patterns.
 
 * Alexander Lee'22 (Fall'20--), scalable algorithms for cube sampling.
 
 * Holden Lee'22 (Spring'20--), sampling-based algorithms for frequent subgraph
     mining.
 
-* Stefan Walzer-Goldfeld'23 (Fall'20--), scalable algorithms for cube sampling.
+* Stefan Walzer-Goldfeld'23 (Fall'20--), scalable algorithms for cube sampling,
+    mining statistically-significant patterns.
 
 * Chloe Wohlgemuth'22 (Fall'20--), sampling-based algorithms for centrality
     approximations in graphs.
@@ -55,6 +55,9 @@ or taking an independent study course (COSC-490) with Matteo.
 ## Alumni
 
 [//]: # "Comment: Most recent first, then alphabetical by last name"
+
+* [Isaac Caruso](https://icaruso21.github.io/)'21 (Fall'20--Spring'21), honorsi
+    thesis on *"Modeling Biological Species Presence with Gaussian Processes"*.
 
 * Conrad Kuklinsky'21 (Spring'19--Fall'20), VC-dimension for intersections of
     half-spaces.
