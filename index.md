@@ -71,6 +71,8 @@ or taking an independent study course (COSC-490) with Matteo.
 * [Shukry Zablah'20](https://www.shukryzablah.com) (Fall'19--Spring'20), honors
     thesis on *"A Parallel Algorithm for Balanced Sampling"*.
 
+![The Data* Mammoths T-Shirt](img/datamammothstshirt.png)
+
 ## How to join
 
 If you are an Amherst student, and are interested in mixing data, computer
