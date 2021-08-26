@@ -36,9 +36,6 @@ or taking an independent study course (COSC-490) with Matteo.
 
 [//]: # "Comment: alphabetical by last name"
 
-* Maryam Abuissa'24 (Summer'21--), teaching materials for the COSC-111
-    Introduction to Computer Science 1 course.
-
 * Steedman Jenkins'23 (Spring'21--), mining statistically-significant patterns.
 
 * Alexander Lee'22 (Fall'20--), scalable algorithms for cube sampling.
@@ -56,7 +53,10 @@ or taking an independent study course (COSC-490) with Matteo.
 
 [//]: # "Comment: Most recent first, then alphabetical by last name"
 
-* [Isaac Caruso](https://icaruso21.github.io/)'21 (Fall'20--Spring'21), honorsi
+* Maryam Abuissa'24 (Summer'21), teaching materials for the COSC-111
+    Introduction to Computer Science 1 course.
+
+* [Isaac Caruso](https://icaruso21.github.io/)'21 (Fall'20--Spring'21), honors
     thesis on *"Modeling Biological Species Presence with Gaussian Processes"*.
 
 * Conrad Kuklinsky'21 (Spring'19--Fall'20), VC-dimension for intersections of
