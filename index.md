@@ -8,8 +8,8 @@ and much more. You can read more about what we do in the [Q&A with
 Matteo](https://www.amherst.edu/news/news_releases/2020/9-2020/computer-science-for-science)
 for the college website.
 
-The methods we develop often leverage randomness (e.g., sampling) and offer
-strong guarantees on their performance.
+The methods we develop often leverage randomness (e.g., sampling, statistical
+hypothesis testing, sketches) and offer strong guarantees on their performance.
 
 Our research is sponsored, in part, by the National Science Foundation under
 [award #2006765](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2006765).
