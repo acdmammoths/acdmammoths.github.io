@@ -36,9 +36,13 @@ or taking an independent study course (COSC-490) with Matteo.
 
 [//]: # "Comment: alphabetical by last name"
 
+* Adam Gibbs'22 (Fall'21--), streaming subgraph matching with security
+    applications.
+
 * Steedman Jenkins'23 (Spring'21--), mining statistically-significant patterns.
 
-* Alexander Lee'22 (Fall'20--), scalable algorithms for cube sampling.
+* Alexander Lee'22 (Fall'20--), scalable algorithms for cube sampling, mining
+    statistically-significant patterns.
 
 * Holden Lee'22 (Spring'20--), sampling-based algorithms for frequent subgraph
     mining.
