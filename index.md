@@ -1,4 +1,4 @@
-[Publications](#pubs)   [Members](#members)    [How to join?](#join)
+[Publications](#pubs)     [Members](#members)     [How to join?](#join)
 
 We are a **research and learning** group led by [Prof. Matteo
 Riondato](http://matteo.rionda.to) at [Amherst College](http://www.amherst.edu),
