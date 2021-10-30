@@ -34,10 +34,11 @@ or taking an independent study course (COSC-490) with Matteo.
 ## <a id="pubs"></a> Publications with Mammoths student authors
 
 * Alexander Lee, Stefan Walzer-Goldfeld, Shukry Zablah, and Matteo Riondato.
-    A Scalable Parallel Algorithm for Balanced Sampling. AAAI'22 (student
+    *A Scalable Parallel Algorithm for Balanced Sampling*. AAAI'22 (student
     abstract).
-* Cyrus Cousins, Chloe Wohlgemuth, and Matteo Riondato. Bavarian: Betweenness
-    Centrality Approximation with Variance-Aware Rademacher Averages. ACM KDD'22.
+* Cyrus Cousins, Chloe Wohlgemuth, and Matteo Riondato. *Bavarian: Betweenness
+    Centrality Approximation with Variance-Aware Rademacher Averages*. ACM
+    KDD'22.
 
 ## <a id="members"></a> Members
 
