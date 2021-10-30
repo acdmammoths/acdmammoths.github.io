@@ -1,3 +1,5 @@
+[Publications](#pubs)   [Members](#members)    [How to join?](#join)
+
 We are a **research and learning** group led by [Prof. Matteo
 Riondato](http://matteo.rionda.to) at [Amherst College](http://www.amherst.edu),
 mostly in the [Computer Science](http://cs.amherst.edu) department.
@@ -29,7 +31,15 @@ or taking an independent study course (COSC-490) with Matteo.
 
 ![Data* Mammoths at work: Matteo and Conrad working on graph algorithms at the whiteboard](img/matteoconrad.png)
 
-## Members
+## <a id="pubs"></a> Publications with Data* Mammoths Student Authors
+
+* Alexander Lee, Stefan Walzer-Goldfeld, Shukry Zablah, and Matteo Riondato.
+    A Scalable Parallel Algorithm for Balanced Sampling. AAAI'22 (student
+    abstract).
+* Cyrus Cousins, Chloe Wohlgemuth, and Matteo Riondato. Bavarian: Betweenness
+    Centrality Approximation with Variance-Aware Rademacher Averages. ACM KDD'22.
+
+## <a id="members"></a> Members
 
 * (Prof.) [Matteo](http://matteo.rionda.to) (Riondato),
     [mahout](https://en.wikipedia.org/wiki/Mahout) of the herd.
@@ -53,7 +63,7 @@ or taking an independent study course (COSC-490) with Matteo.
 * Chloe Wohlgemuth'22 (Fall'20--), sampling-based algorithms for centrality
     approximations in graphs.
 
-## Alumni
+### Alumni
 
 [//]: # "Comment: Most recent first, then alphabetical by last name"
 
@@ -77,7 +87,7 @@ or taking an independent study course (COSC-490) with Matteo.
 
 ![The Data* Mammoths T-Shirt](img/datamammothstshirt.png)
 
-## How to join
+## <a id="join"></a> How to join
 
 If you are an Amherst student, and are interested in mixing data, computer
 science, probability, and statistics, please contact Matteo. With rare
