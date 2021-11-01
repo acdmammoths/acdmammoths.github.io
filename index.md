@@ -1,3 +1,5 @@
+## Amherst College Data* Mammoths
+
 ### [Publications](#pubs)     [Members](#members)     [How to join?](#join)
 
 We are a **research and learning** group led by [Prof. Matteo
