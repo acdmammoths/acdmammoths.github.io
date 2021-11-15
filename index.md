@@ -101,7 +101,7 @@ science, probability, and statistics, please contact Matteo. With rare
 exceptions, you should have taken or be enrolled in COSC-211 Data Structures.
 Having taken one or more courses in probability and/or statistics (e.g.,
 STAT-135, COSC-223, MATH/STAT-360) is a plus, but not necessary, although if you
-haven't, it is likely that you will have to spend a semester learning about
+haven't, it is likely that you will get to spend a semester learning about
 probability in computer science, possibly in an independent study course with
 Matteo.
 
