@@ -41,7 +41,7 @@ Mammoths student/alumni authors in  *italics*.
     (student abstract).
 * Cyrus Cousins, *Chloe Wohlgemuth*, and Matteo Riondato. *Bavarian: Betweenness
     Centrality Approximation with Variance-Aware Rademacher Averages*. ACM
-    KDD'22.
+    KDD'21.
 
 ## <a id="members"></a> Members
 
