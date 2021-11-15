@@ -61,6 +61,9 @@ Mammoths student/alumni authors in  *italics*.
 * Holden Lee'22 (Spring'20--), sampling-based algorithms for frequent subgraph
     mining.
 
+* Vaibhav Shah'23 (Fall'21--), teaching materials for the COSC-254 Data Mining
+    course.
+
 * Stefan Walzer-Goldfeld'23 (Fall'20--), scalable algorithms for cube sampling,
     mining statistically-significant patterns.
 
