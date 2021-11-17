@@ -34,7 +34,7 @@ or taking an independent study course (COSC-490) with Matteo.
 ![Data* Mammoths at work: Matteo and Conrad working on graph algorithms at the whiteboard](img/matteoconrad.png)
 
 ## <a id="pubs"></a> Publications with Mammoths student authors
-Mammoths student/alumni authors in  *italics*.
+Mammoths student/alumni authors in *italics*.
 
 * *Alexander Lee*, *Stefan Walzer-Goldfeld*, *Shukry Zablah*, and Matteo
     Riondato. [*A Scalable Parallel Algorithm for Balanced
