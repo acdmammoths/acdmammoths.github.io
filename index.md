@@ -3,8 +3,8 @@
 ### [Publications](#pubs)     [Members](#members)     [How to join?](#join)
 
 We are a **research and learning** group led by [Prof. Matteo
-Riondato](http://matteo.rionda.to) at [Amherst College](http://www.amherst.edu),
-mostly in the [Computer Science](http://cs.amherst.edu) department.
+Riondato](http://matteo.rionda.to) at [Amherst College](https://www.amherst.edu),
+mostly in the [Computer Science](https://cs.amherst.edu) department.
 
 We create and learn about algorithms for *"everything data"*:[^1] data mining,
 network science, machine learning, data science, knowledge discovery, databases,
