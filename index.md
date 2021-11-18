@@ -39,7 +39,8 @@ Mammoths student/alumni authors in *italics*.
 * *Alexander Lee*, *Stefan Walzer-Goldfeld*, *Shukry Zablah*, and Matteo
     Riondato. [*A Scalable Parallel Algorithm for Balanced
     Sampling*](/pubs/LeeEtAl-AScalableParallelAlgorithmForBalancedSampling-AAAI22.pdf).
-    AAAI'22 (student abstract).
+    AAAI'22 (student abstract). [GitHub
+    repo](https://github.com/acdmammoths/parallelcubesampling)
 * Cyrus Cousins, *Chloe Wohlgemuth*, and Matteo Riondato. [*Bavarian: Betweenness
     Centrality Approximation with Variance-Aware Rademacher
     Averages*](/pubs/CousinsEtAl-BavarianBetweennessCentralityApproximationWithVarianceAwareRademacherAverages-KDD21.pdf).
