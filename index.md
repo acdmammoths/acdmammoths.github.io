@@ -53,32 +53,34 @@ Mammoths student/alumni authors in *italics*.
 
 [//]: # "Comment: alphabetical by last name"
 
-* Adam Gibbs'22 (Fall'21--), streaming subgraph matching with security
-    applications.
+* Maryam Abuissa'24 (Spring'22--), learning about probability and computing
+
+* Adam Gibbs'22 (Fall'21--), parallel/distributed subgraph matching with
+    security applications.
 
 * Steedman Jenkins'23 (Spring'21--), mining statistically-significant patterns.
 
-* Alexander Lee'22 (Fall'20--), scalable algorithms for cube sampling, mining
-    statistically-significant patterns.
+* Alexander Lee'22 (Fall'20--), scalable algorithms for cube sampling,
+    statistical evaluation of data mining results.
 
-* Holden Lee'22 (Spring'20--), sampling-based algorithms for frequent subgraph
-    mining.
-
-* Vaibhav Shah'23 (Fall'21--), teaching materials for the COSC-254 Data Mining
-    course.
+* Shengdi Lin'23E (Spring'21), honors thesis on statistically-significant
+    patterns.
 
 * Stefan Walzer-Goldfeld'23 (Fall'20--), scalable algorithms for cube sampling,
     mining statistically-significant patterns.
-
-* Chloe Wohlgemuth'22 (Fall'20--), sampling-based algorithms for centrality
-    approximations in graphs.
 
 ### Alumni
 
 [//]: # "Comment: Most recent first, then alphabetical by last name"
 
+* Vaibhav Shah'23 (Fall'21), teaching materials for the COSC-254 Data Mining
+    course.
+
 * Maryam Abuissa'24 (Summer'21), teaching materials for the COSC-111
     Introduction to Computer Science 1 course.
+
+* Holden Lee'22 (Spring'20--Spring'21), sampling-based algorithms for frequent
+    subgraph mining.
 
 * [Isaac Caruso](https://icaruso21.github.io/)'21 (Fall'20--Spring'21), honors
     thesis on *"Modeling Biological Species Presence with Gaussian Processes"*.
@@ -91,6 +93,9 @@ Mammoths student/alumni authors in *italics*.
 
 * Kathleen Isenegger'20 (Fall'19--Spring'20), honors thesis on *"Approximate
     Mining of High-Utility Itemsets through Sampling"*.
+
+* Chloe Wohlgemuth'22 (Fall'20--Fall'21), sampling-based algorithms for
+    centrality approximations in graphs.
 
 * [Shukry Zablah'20](https://www.shukryzablah.com) (Fall'19--Spring'20), honors
     thesis on *"A Parallel Algorithm for Balanced Sampling"*.
