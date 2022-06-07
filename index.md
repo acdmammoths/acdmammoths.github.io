@@ -36,6 +36,10 @@ or taking an independent study course (COSC-490) with Matteo.
 ## <a id="pubs"></a> Publications with Mammoths student authors
 Mammoths student/alumni authors in *italics*.
 
+* *Steedman Jenkins*, *Stefan Walzer-Goldfeld*, and Matteo Riondato. *SPEck:
+    Mining Statistically-significant Sequential Patterns Efficiently with Exact
+    Sampling*, Data Mining and Knowledge Discovery (S.I. for ECML PKDD'22).
+
 * *Alexander Lee*, *Stefan Walzer-Goldfeld*, *Shukry Zablah*, and Matteo
     Riondato. [*A Scalable Parallel Algorithm for Balanced
     Sampling*](https://github.com/acdmammoths/parallelcubesampling/raw/main/paper/cubesampling.pdf).
