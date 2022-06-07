@@ -55,13 +55,7 @@ Mammoths student/alumni authors in *italics*.
 
 * Maryam Abuissa'24 (Spring'22--), learning about probability and computing
 
-* Adam Gibbs'22 (Fall'21--), parallel/distributed subgraph matching with
-    security applications.
-
 * Steedman Jenkins'23 (Spring'21--), mining statistically-significant patterns.
-
-* Alexander Lee'22 (Fall'20--), scalable algorithms for cube sampling,
-    statistical evaluation of data mining results.
 
 * Shengdi Lin'23E (Spring'21), honors thesis on statistically-significant
     patterns.
@@ -72,6 +66,12 @@ Mammoths student/alumni authors in *italics*.
 ### Alumni
 
 [//]: # "Comment: Most recent first, then alphabetical by last name"
+
+* Adam Gibbs'22 (Fall'21--Spring'22), parallel/distributed subgraph matching
+    with security applications.
+
+* Alexander Lee'22 (Fall'20--Spring'22), scalable algorithms for cube sampling,
+    statistical evaluation of data mining results.
 
 * Vaibhav Shah'23 (Fall'21), teaching materials for the COSC-254 Data Mining
     course.
@@ -94,7 +94,7 @@ Mammoths student/alumni authors in *italics*.
 * Kathleen Isenegger'20 (Fall'19--Spring'20), honors thesis on *"Approximate
     Mining of High-Utility Itemsets through Sampling"*.
 
-* Chloe Wohlgemuth'22 (Fall'20--Fall'21), sampling-based algorithms for
+* Chloe Wohlgemuth'22 (Fall'20--Spring'22), sampling-based algorithms for
     centrality approximations in graphs.
 
 * [Shukry Zablah'20](https://www.shukryzablah.com) (Fall'19--Spring'20), honors
