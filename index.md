@@ -39,11 +39,13 @@ Mammoths student/alumni authors in *italics*.
 * *Steedman Jenkins*, *Stefan Walzer-Goldfeld*, and Matteo Riondato. *SPEck:
     Mining Statistically-significant Sequential Patterns Efficiently with Exact
     Sampling*, Data Mining and Knowledge Discovery (S.I. for ECML PKDD'22).
+
 * *Alexander Lee*, *Stefan Walzer-Goldfeld*, *Shukry Zablah*, and Matteo
     Riondato. [*A Scalable Parallel Algorithm for Balanced
     Sampling*](https://github.com/acdmammoths/parallelcubesampling/raw/main/paper/cubesampling.pdf).
     AAAI'22 (student abstract). [GitHub
     repo](https://github.com/acdmammoths/parallelcubesampling)
+
 * Cyrus Cousins, *Chloe Wohlgemuth*, and Matteo Riondato. [*Bavarian: Betweenness
     Centrality Approximation with Variance-Aware Rademacher
     Averages*](/pubs/CousinsEtAl-BavarianBetweennessCentralityApproximationWithVarianceAwareRademacherAverages-KDD21.pdf).
