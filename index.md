@@ -65,6 +65,8 @@ Mammoths student/alumni authors in *italics*.
 * Shengdi Lin'23E (Spring'21), honors thesis on statistically-significant
     patterns.
 
+* Sarah Park'23 (Summer'22--), honors thesis on TBD.
+
 * Stefan Walzer-Goldfeld'23 (Fall'20--), scalable algorithms for cube sampling,
     mining statistically-significant patterns.
 
