@@ -38,7 +38,9 @@ Mammoths student/alumni authors in *italics*.
 
 * *Steedman Jenkins*, *Stefan Walzer-Goldfeld*, and Matteo Riondato. *SPEck:
     Mining Statistically-significant Sequential Patterns Efficiently with Exact
-    Sampling*, Data Mining and Knowledge Discovery (S.I. for ECML PKDD'22).
+    Sampling*](https://github.com/acdmammoths/SPEck-code/raw/main/JenkinksEtAl-SPEck-DMKD22.pdf),
+    Data Mining and Knowledge Discovery (S.I. for ECML PKDD'22). [GitHub
+    repo](https://github.com/acdmammoths/SPEck-code)
 
 * *Alexander Lee*, *Stefan Walzer-Goldfeld*, *Shukry Zablah*, and Matteo
     Riondato. [*A Scalable Parallel Algorithm for Balanced
