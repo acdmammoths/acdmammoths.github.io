@@ -60,7 +60,7 @@ Mammoths student/alumni authors in *italics*.
 
 [//]: # "Comment: alphabetical by last name"
 
-* Maryam Abuissa'24 (Spring'22--), learning about probability and computing
+* Maryam Abuissa'24 (Spring'22--), statistically-sound knowledge discovery.
 
 * Steedman Jenkins'23 (Spring'21--), mining statistically-significant patterns.
 
