@@ -79,8 +79,9 @@ Mammoths student/alumni authors in *italics*.
 * Adam Gibbs'22 (Fall'21--Spring'22), parallel/distributed subgraph matching
     with security applications.
 
-* Alexander Lee'22 (Fall'20--Spring'22), scalable algorithms for cube sampling,
-    statistical evaluation of data mining results.
+* [Alexander Lee](https://www.alexanderwlee.com)'22 (Fall'20--Spring'22),
+    scalable algorithms for cube sampling, statistical evaluation of data mining
+    results.
 
 * Vaibhav Shah'23 (Fall'21), teaching materials for the COSC-254 Data Mining
     course.
