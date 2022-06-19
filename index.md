@@ -36,7 +36,7 @@ or taking an independent study course (COSC-490) with Matteo.
 ## <a id="pubs"></a> Publications with Mammoths student authors
 Mammoths student/alumni authors in *italics*.
 
-* *Steedman Jenkins*, *Stefan Walzer-Goldfeld*, and Matteo Riondato. *SPEck:
+* *Steedman Jenkins*, *Stefan Walzer-Goldfeld*, and Matteo Riondato. [*SPEck:
     Mining Statistically-significant Sequential Patterns Efficiently with Exact
     Sampling*](https://github.com/acdmammoths/SPEck-code/raw/main/JenkinksEtAl-SPEck-DMKD22.pdf),
     Data Mining and Knowledge Discovery (S.I. for ECML PKDD'22). [GitHub
