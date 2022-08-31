@@ -60,17 +60,19 @@ Mammoths student/alumni authors in *italics*.
 
 [//]: # "Comment: alphabetical by last name"
 
-* Maryam Abuissa'24 (Spring'22--), statistically-sound knowledge discovery.
+* Maryam Abuissa'24 (Spring'22--), algorithms for statistically-sound knowledge
+    discovery.
 
 * Steedman Jenkins'23 (Spring'21--), mining statistically-significant patterns.
 
-* Shengdi Lin'23E (Spring'21--), honors thesis on statistically-significant
-    patterns.
+* Shengdi Lin'23E (Spring'21--), honors thesis on rapidly-converging MCMC
+    methods for statistically-significant patterns.
 
-* Sarah Park'23 (Summer'22--), honors thesis on TBD.
+* Sarah Park'23 (Summer'22--), honors thesis on higher-power methods for
+    statistically-significant patterns.
 
-* Stefan Walzer-Goldfeld'23 (Fall'20--), scalable algorithms for cube sampling,
-    mining statistically-significant patterns.
+* Stefan Walzer-Goldfeld'23 (Fall'20--), mining rich statistically-significant
+    patterns, scalable algorithms for cube sampling.
 
 ### Alumni
 
