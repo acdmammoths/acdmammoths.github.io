@@ -64,7 +64,7 @@ Mammoths student/alumni authors in *italics*.
 
 * Steedman Jenkins'23 (Spring'21--), mining statistically-significant patterns.
 
-* Shengdi Lin'23E (Spring'21), honors thesis on statistically-significant
+* Shengdi Lin'23E (Spring'21--), honors thesis on statistically-significant
     patterns.
 
 * Sarah Park'23 (Summer'22--), honors thesis on TBD.
