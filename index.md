@@ -23,8 +23,9 @@ papers, you can find us in courses such as [COSC-254 Data
 Mining](https://www.amherst.edu/academiclife/departments/courses/2021S/COSC/COSC-254-2021S),
 [COSC-257
 Databases](https://www.amherst.edu/academiclife/departments/courses/1920F/COSC/COSC-257-1920F),
+[COSC-351 Information Theory](https://www.amherst.edu/academiclife/departments/courses/2223S/COSC/COSC-351-2223S),
 [COSC-355 Network
-Science](https://www.amherst.edu/academiclife/departments/courses/1920S/COSC/COSC-355-1920S),
+Science](https://www.amherst.edu/academiclife/departments/courses/2223F/COSC/COSC-355-2223F),
 or taking an independent study course (COSC-490) with Matteo.
 
 [//]: # "Comment: the footnote below must be all in a single line"
@@ -63,20 +64,28 @@ Mammoths student/alumni authors in *italics*.
 * Maryam Abuissa'24 (Spring'22--), algorithms for statistically-sound knowledge
     discovery.
 
-* Steedman Jenkins'23 (Spring'21--), mining statistically-significant patterns.
+* Michelle Contreras Catalan'25 (Fall'22--), algorithms for statistically-sound
+    knowledge discovery.
 
-* Shengdi Lin'23E (Spring'21--), honors thesis on rapidly-converging MCMC
-    methods for statistically-significant patterns.
+* Dhyey Mavani'25 (Fall'22--), efficient implementations of algorithms for
+    significant pattern mining.
 
 * Sarah Park'23 (Summer'22--), honors thesis on higher-power methods for
     statistically-significant patterns.
 
-* Stefan Walzer-Goldfeld'23 (Fall'20--), mining rich statistically-significant
-    patterns, scalable algorithms for cube sampling.
+* Stefan Walzer-Goldfeld'23 (Fall'20--), honors thesis on null models for rich
+    data, null models for sequence datasets, scalable algorithms for cube
+    sampling.
 
 ### Alumni
 
 [//]: # "Comment: Most recent first, then alphabetical by last name"
+
+* Steedman Jenkins'23 (Spring'21--Fall'22), mining statistically-significant
+  patterns.
+
+* Shengdi Lin'23E (Spring'22--Fall'22), honors thesis on rapidly-converging MCMC
+    methods for statistically-significant patterns.
 
 * Adam Gibbs'22 (Fall'21--Spring'22), parallel/distributed subgraph matching
     with security applications.
