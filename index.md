@@ -37,6 +37,11 @@ or taking an independent study course (COSC-490) with Matteo.
 ## <a id="pubs"></a> Publications with Mammoths student authors
 Mammoths student/alumni authors in *italics*.
 
+* Cyrus Cousins, *Chloe Wohlgemuth*, and Matteo Riondato. [*Bavarian: Betweenness
+    Centrality Approximation with Variance-Aware Rademacher
+    Averages*](https://github.com/acdmammoths/Bavarian-code/raw/main/CousinsEtAl-Bavarian-TKDD2w.pdf).
+    ACM TKDD, to appear. [GitHub repo](https://github.com/acdmammoths/Bavarian-code)
+
 * *Steedman Jenkins*, *Stefan Walzer-Goldfeld*, and Matteo Riondato. [*SPEck:
     Mining Statistically-significant Sequential Patterns Efficiently with Exact
     Sampling*](https://github.com/acdmammoths/SPEck-code/raw/main/JenkinsEtAl-SPEck-DMKD22.pdf),
