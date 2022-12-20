@@ -1,6 +1,6 @@
 ## Amherst College Data* Mammoths
 
-### [News](#news)    [Publications](#pubs)    [Members](#members)    [How to join?](#join)
+### [News](#news)    [Publications](#pubs)    [Members](#members)    [How to join?](#join)
 
 We are a **research and learning** group led by [Prof. Matteo
 Riondato](http://matteo.rionda.to) at [Amherst College](https://www.amherst.edu),
