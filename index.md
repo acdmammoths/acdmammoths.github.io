@@ -1,6 +1,6 @@
 ## Amherst College Data* Mammoths
 
-### [Publications](#pubs)     [Members](#members)     [How to join?](#join)
+### [News](#news)    [Publications](#pubs)    [Members](#members)    [How to join?](#join)
 
 We are a **research and learning** group led by [Prof. Matteo
 Riondato](http://matteo.rionda.to) at [Amherst College](https://www.amherst.edu),
@@ -33,6 +33,16 @@ or taking an independent study course (COSC-490) with Matteo.
  [^1]: That's the reason for the `*` in `Data*`, as `X*` means "everything X", in computer science jargon.
 
 ![Data* Mammoths at work: Matteo and Conrad working on graph algorithms at the whiteboard](img/matteoconrad.png)
+
+## <a id="news"></a> News
+
+* Stefan was selected as a finalist for the [2023 CRA Outstanding Undergraduate
+    Researcher
+    Award](https://cra.org/about/awards/outstanding-undergraduate-researcher-award/).
+
+* The [journal version of
+    Bavarian](https://github.com/acdmammoths/Bavarian-code/raw/main/CousinsEtAl-Bavarian-TKDD23.pdf),
+    coauthored by Chloe, was published in [ACM TKDD](https://tkdd.acm.org).
 
 ## <a id="pubs"></a> Publications with Mammoths student authors
 Mammoths student/alumni authors in *italics*.
