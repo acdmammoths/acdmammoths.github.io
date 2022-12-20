@@ -39,7 +39,7 @@ Mammoths student/alumni authors in *italics*.
 
 * Cyrus Cousins, *Chloe Wohlgemuth*, and Matteo Riondato. [*Bavarian: Betweenness
     Centrality Approximation with Variance-Aware Rademacher
-    Averages*](https://github.com/acdmammoths/Bavarian-code/raw/main/CousinsEtAl-Bavarian-TKDD2w.pdf).
+    Averages*](https://github.com/acdmammoths/Bavarian-code/raw/main/CousinsEtAl-Bavarian-TKDD23.pdf).
     ACM TKDD, to appear. [GitHub repo](https://github.com/acdmammoths/Bavarian-code)
 
 * *Steedman Jenkins*, *Stefan Walzer-Goldfeld*, and Matteo Riondato. [*SPEck:
