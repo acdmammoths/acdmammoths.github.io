@@ -90,14 +90,14 @@ Mammoths student/alumni authors in *italics*.
   patterns.
 
 * Shengdi Lin'23E (Spring'22--Fall'22), honors thesis on rapidly-converging MCMC
-    methods for statistically-significant patterns.
+    methods for statistically-significant patterns. Honors thesis (cum Laude).
 
 * Adam Gibbs'22 (Fall'21--Spring'22), parallel/distributed subgraph matching
     with security applications.
 
 * [Alexander Lee](https://www.alexanderwlee.com)'22 (Fall'20--Spring'22),
     scalable algorithms for cube sampling, statistical evaluation of data mining
-    results.
+    results. Honors thesis (Summa cum Laude), 2022 Computer Science Prize.
 
 * Vaibhav Shah'23 (Fall'21), teaching materials for the COSC-254 Data Mining
     course.
@@ -109,7 +109,8 @@ Mammoths student/alumni authors in *italics*.
     subgraph mining.
 
 * [Isaac Caruso](https://icaruso21.github.io/)'21 (Fall'20--Spring'21), honors
-    thesis on *"Modeling Biological Species Presence with Gaussian Processes"*.
+    thesis on *"Modeling Biological Species Presence with Gaussian Processes"*,
+    cum laude.
 
 * Conrad Kuklinsky'21 (Spring'19--Fall'20), VC-dimension for intersections of
     half-spaces.
@@ -118,13 +119,14 @@ Mammoths student/alumni authors in *italics*.
     Introduction to Computer Science 1 course.
 
 * Kathleen Isenegger'20 (Fall'19--Spring'20), honors thesis on *"Approximate
-    Mining of High-Utility Itemsets through Sampling"*.
+    Mining of High-Utility Itemsets through Sampling"*, magna cum laude.
 
 * Chloe Wohlgemuth'22 (Fall'20--Spring'22), sampling-based algorithms for
     centrality approximations in graphs.
 
 * [Shukry Zablah'20](https://www.shukryzablah.com) (Fall'19--Spring'20), honors
-    thesis on *"A Parallel Algorithm for Balanced Sampling"*.
+    thesis on *"A Parallel Algorithm for Balanced Sampling"*, magna cum laude,
+    2020 Computer Science Prize.
 
 ![The Data* Mammoths T-Shirt](img/datamammothstshirt.png)
 
