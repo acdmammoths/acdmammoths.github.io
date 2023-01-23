@@ -82,8 +82,8 @@ Mammoths student/alumni authors in *italics*.
 * Michelle Contreras Catalan'25 (Fall'22--), algorithms for statistically-sound
     knowledge discovery.
 
-* Dhyey Mavani'25 (Fall'22--), efficient implementations of algorithms for
-    significant pattern mining.
+* Hailin (Angelica) Kim'24 (Spring'23--), algorithms for statistically-sound
+    knowledge discovery.
 
 * Sarah Park'23 (Summer'22--), honors thesis on higher-power methods for
     statistically-significant patterns.
@@ -96,8 +96,11 @@ Mammoths student/alumni authors in *italics*.
 
 [//]: # "Comment: Most recent first, then alphabetical by last name"
 
+* Dhyey Mavani'25 (Fall'22), efficient implementations of algorithms for
+    significant pattern mining.
+
 * Steedman Jenkins'23 (Spring'21--Fall'22), mining statistically-significant
-  patterns.
+    patterns.
 
 * Shengdi Lin'23E (Spring'22--Fall'22), honors thesis on rapidly-converging MCMC
     methods for statistically-significant patterns. Honors thesis (cum Laude).
