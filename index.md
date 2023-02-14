@@ -82,6 +82,12 @@ Mammoths student/alumni authors in *italics*.
 * Michelle Contreras Catalan'25 (Fall'22--), algorithms for statistically-sound
     knowledge discovery.
 
+* Daniel Flores-Garcia'24 (Spring'23--), algorithms for statistically-sound
+    knowledge discovery.
+
+* Wanting (Sherry) Jiang'25 (Spring'23--), database design for educational
+    surveys.
+
 * Hailin (Angelica) Kim'24 (Spring'23--), algorithms for statistically-sound
     knowledge discovery.
 
