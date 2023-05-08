@@ -54,7 +54,7 @@ Mammoths student/alumni authors in *italics*.
     agnostic null models for statistically-sound knowledge
     discovery*](https://github.com/acdmammoths/ROhAN-code/blob/main/AbuissaEtAl-ROhAN-DMKD23.pdf).
     Data Mining and Knowledge Discovery ([S.I. for ECML
-    PKDD'23](https://link.springer.com/journal/10618/topicalCollection/AC_405d0ca97322bed6d7bb7cf14504b211/page/1).
+    PKDD'23](https://link.springer.com/journal/10618/topicalCollection/AC_405d0ca97322bed6d7bb7cf14504b211/page/1)).
     [GitHub repo](https://github.com/acdmammoths/ROhAN-code)
 
 * Cyrus Cousins, *Chloe Wohlgemuth*, and Matteo Riondato. [*Bavarian: Betweenness
