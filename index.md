@@ -36,6 +36,9 @@ or taking an independent study course (COSC-490) with Matteo.
 
 ## <a id="news"></a> News
 
+* Maryam and Alex published [ROhAN](https://github.com/acdmammoths/ROhAN-code/raw/main/AbuissaEtAl-ROhAN-DMKD23.pdf) in
+    [DAMI/DMKD](https://link.springer.com/journal/10618).
+
 * Stefan was selected as a finalist for the [2023 CRA Outstanding Undergraduate
     Researcher
     Award](https://cra.org/about/awards/outstanding-undergraduate-researcher-award/).
@@ -47,16 +50,24 @@ or taking an independent study course (COSC-490) with Matteo.
 ## <a id="pubs"></a> Publications with Mammoths student authors
 Mammoths student/alumni authors in *italics*.
 
+* *Maryam Abuissa*, *Alexander Lee*, and Matteo Riondato. [*ROhAN: Row order
+    agnostic null models for statistically-sound knowledge
+    discovery*](https://github.com/acdmammoths/ROhAN-code/blob/main/AbuissaEtAl-ROhAN-DMKD23.pdf).
+    Data Mining and Knowledge Discovery ([S.I. for ECML
+    PKDD'23](https://link.springer.com/journal/10618/topicalCollection/AC_405d0ca97322bed6d7bb7cf14504b211/page/1).
+    [GitHub repo](https://github.com/acdmammoths/ROhAN-code)
+
 * Cyrus Cousins, *Chloe Wohlgemuth*, and Matteo Riondato. [*Bavarian: Betweenness
     Centrality Approximation with Variance-Aware Rademacher
     Averages*](https://github.com/acdmammoths/Bavarian-code/raw/main/CousinsEtAl-Bavarian-TKDD23.pdf).
-    ACM TKDD, to appear. [GitHub repo](https://github.com/acdmammoths/Bavarian-code)
+    ACM Trans. on Knowledge Discovery from Data, 17(6):78, 2023. [GitHub
+    repo](https://github.com/acdmammoths/Bavarian-code)
 
 * *Steedman Jenkins*, *Stefan Walzer-Goldfeld*, and Matteo Riondato. [*SPEck:
     Mining Statistically-significant Sequential Patterns Efficiently with Exact
     Sampling*](https://github.com/acdmammoths/SPEck-code/raw/main/JenkinsEtAl-SPEck-DMKD22.pdf),
-    Data Mining and Knowledge Discovery (S.I. for ECML PKDD'22). [GitHub
-    repo](https://github.com/acdmammoths/SPEck-code)
+    Data Mining and Knowledge Discovery, 36(4):1575–1599, 2022 (S.I. for ECML
+    PKDD'22). [GitHub repo](https://github.com/acdmammoths/SPEck-code)
 
 * *Alexander Lee*, *Stefan Walzer-Goldfeld*, *Shukry Zablah*, and Matteo
     Riondato. [*A Scalable Parallel Algorithm for Balanced
