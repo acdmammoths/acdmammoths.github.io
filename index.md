@@ -47,8 +47,6 @@ or taking an independent study course (COSC-490) with Matteo.
     Bavarian](https://github.com/acdmammoths/Bavarian-code/raw/main/CousinsEtAl-Bavarian-TKDD23.pdf),
     coauthored by Chloe, was published in [ACM TKDD](https://tkdd.acm.org).
 
-![The Data* Mammoths in May 2023 -- Jesse Gwilliam ©️ Amherst College](img/May23Group.jpg)
-
 ## <a id="pubs"></a> Publications with Mammoths student authors
 Mammoths student/alumni authors in *italics*.
 
@@ -81,6 +79,8 @@ Mammoths student/alumni authors in *italics*.
     Centrality Approximation with Variance-Aware Rademacher
     Averages*](/pubs/CousinsEtAl-BavarianBetweennessCentralityApproximationWithVarianceAwareRademacherAverages-KDD21.pdf).
     ACM KDD'21.
+
+![The Data* Mammoths in May 2023 -- Jesse Gwilliam ©️ Amherst College](img/May23Group.jpg)
 
 ## <a id="members"></a> Members
 
