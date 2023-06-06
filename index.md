@@ -95,25 +95,36 @@ Mammoths student/alumni authors in *italics*.
 * Michelle Contreras Catalan'25 (Fall'22--), algorithms for statistically-sound
     knowledge discovery.
 
-* Daniel Flores-Garcia'24 (Spring'23--), algorithms for statistically-sound
-    knowledge discovery.
-
-* Wanting (Sherry) Jiang'25 (Spring'23--), database design for educational
-    surveys.
+* Daniel Flores-Garcia'24 (Spring'23--), honors thesis on algorithms for
+    statistically-sound knowledge discovery.
 
 * Hailin (Angelica) Kim'24 (Spring'23--), algorithms for statistically-sound
-    knowledge discovery.
+    knowledge discovery. Honors thesis on causal discovery
 
-* Sarah Park'23 (Summer'22--), honors thesis on higher-power methods for
-    statistically-significant patterns.
+* Ris Paulino'25 (Summer'23--), a database for a museum
 
-* Stefan Walzer-Goldfeld'23 (Fall'20--), honors thesis on null models for rich
-    data, null models for sequence datasets, scalable algorithms for cube
-    sampling.
+* Sriyash Singhania'26 (Summer'23--), algorithms for statistically-sound
+    knowledge discovery
+
+* Hewan Worku'25 (Summer'23--), algorithms for statistically-sound
+    knowledge discovery
+
+* Sarah Wu (Summer'23--), a database for a museum
+
 
 ### Alumni
 
 [//]: # "Comment: Most recent first, then alphabetical by last name"
+
+* Wanting (Sherry) Jiang'25 (Spring'23), database design for educational
+    surveys.
+
+* Sarah Park'23 (Summer'22--Spring'23), honors thesis (cum laude) on
+     higher-power methods for statistically-significant patterns.
+
+* Stefan Walzer-Goldfeld'23 (Fall'20--Spring'23), honors thesis (magna cum
+    laude, 2023 Computer Science Prize) on null models for rich data, null
+    models for sequence datasets, scalable algorithms for cube sampling.
 
 * Dhyey Mavani'25 (Fall'22), efficient implementations of algorithms for
     significant pattern mining.
@@ -121,8 +132,8 @@ Mammoths student/alumni authors in *italics*.
 * Steedman Jenkins'23 (Spring'21--Fall'22), mining statistically-significant
     patterns.
 
-* Shengdi Lin'23E (Spring'22--Fall'22), honors thesis on rapidly-converging MCMC
-    methods for statistically-significant patterns. Honors thesis (cum Laude).
+* Shengdi Lin'23E (Spring'22--Fall'22), honors thesis (cum laude) on
+    rapidly-converging MCMC methods for statistically-significant patterns.
 
 * Adam Gibbs'22 (Fall'21--Spring'22), parallel/distributed subgraph matching
     with security applications.
@@ -157,8 +168,8 @@ Mammoths student/alumni authors in *italics*.
     centrality approximations in graphs.
 
 * [Shukry Zablah'20](https://www.shukryzablah.com) (Fall'19--Spring'20), honors
-    thesis on *"A Parallel Algorithm for Balanced Sampling"*, magna cum laude,
-    2020 Computer Science Prize.
+    thesis (magna cum laude, 2020 Computer Science Prize) on *"A Parallel
+    Algorithm for Balanced Sampling"*.
 
 ![The Data* Mammoths T-Shirt](img/datamammothstshirt.png)
 
