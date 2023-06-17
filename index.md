@@ -16,7 +16,9 @@ The methods we develop often leverage randomness (e.g., sampling, statistical
 hypothesis testing, sketches) and offer strong guarantees on their performance.
 
 Our research is sponsored, in part, by the National Science Foundation under
-[award #2006765](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2006765).
+[CAREER award
+2238693](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2238693) and [award
+III-2006765](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2006765).
 
 When we are not working together at the whiteboard, writing code, or reading
 papers, you can find us in courses such as [COSC-254 Data
