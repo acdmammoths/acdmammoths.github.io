@@ -163,8 +163,8 @@ Mammoths student/alumni authors in *italics*.
 * Margaret Drew'22 (Summer'20), assignments and videos for the COSC-111
     Introduction to Computer Science 1 course.
 
-* Kathleen Isenegger'20 (Fall'19--Spring'20), honors thesis on *"Approximate
-    Mining of High-Utility Itemsets through Sampling"*, magna cum laude.
+* Kathleen Isenegger'20 (Fall'19--Spring'20), honors thesis (magna cum laude) on
+    *"Approximate Mining of High-Utility Itemsets through Sampling"*.
 
 * Chloe Wohlgemuth'22 (Fall'20--Spring'22), sampling-based algorithms for
     centrality approximations in graphs.
