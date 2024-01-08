@@ -38,6 +38,9 @@ or taking an independent study course (COSC-490) with Matteo.
 
 ## <a id="news"></a> News
 
+* Stefan was [interviewed by the CRA](https://sparc.cra.org/unveiling-patterns-undergraduate-ventures-into-statistically-significant-pattern-mining/)
+    about doing research with the Data Mammoths.
+
 * Maryam and Alex published [ROhAN](https://github.com/acdmammoths/ROhAN-code/raw/main/AbuissaEtAl-ROhAN-DMKD23.pdf) in
     [DAMI/DMKD](https://link.springer.com/journal/10618).
 
@@ -184,7 +187,9 @@ Having taken one or more courses in probability and/or statistics (e.g.,
 STAT-135, COSC-223, MATH/STAT-360) is a plus, but not necessary, although if you
 haven't, it is likely that you will get to spend a semester learning about
 probability in computer science, possibly in an independent study course with
-Matteo.
+Matteo. Here's an [interview with a former Data
+Mammoth](https://sparc.cra.org/unveiling-patterns-undergraduate-ventures-into-statistically-significant-pattern-mining/)
+about what the experience could look like.
 
 ## 🐘 💜 💾  We love data!
 
