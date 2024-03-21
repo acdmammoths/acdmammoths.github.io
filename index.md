@@ -99,24 +99,24 @@ Mammoths student/alumni authors in *italics*.
 [//]: # "Comment: alphabetical by last name"
 
 * Michelle Contreras Catalan'25 (Fall'22--), algorithms for statistically-sound
-    knowledge discovery.
+    knowledge discovery
 
 * Hena Ershadi'26 (Spring'24--), FPGA acceleration for statistically-sound
     knowledge discovery (together with [Lillian
-    Pentecost](https://lpentecost.github.io/cv/)).
+    Pentecost](https://lpentecost.github.io/cv/))
 
 * Wendy Espinosa'25 (Spring'24--), relational database for the [Clotfelter
-    Lab](https://www.clotfelterlab.org/).
+    Lab](https://www.clotfelterlab.org/)
 
 * Daniel Flores-Garcia'24 (Spring'23--), honors thesis on generating Afro-Cuban
-    drum patterns with deep learning.
+    drum patterns with deep learning
 
 * Hailin (Angelica) Kim'24 (Spring'23--), algorithms for statistically-sound
     knowledge discovery. Honors thesis on causal discovery
 
 * Sriyash Singhania'26 (Summer'23--), algorithms for statistically-sound
     knowledge discovery, relational database for the
-    [Follette Lab](https://www.follettelab.com/).
+    [Follette Lab](https://www.follettelab.com/)
 
 * Sarah Wu (Summer'23--), a database for a museum
 
