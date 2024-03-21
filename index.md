@@ -38,6 +38,10 @@ or taking an independent study course (COSC-490) with Matteo.
 
 ## <a id="news"></a> News
 
+* Maryam received a honorable mention for the [2024 CRA Outstanding
+    Undergraduate Researcher
+    Award](https://cra.org/about/awards/outstanding-undergraduate-researcher-award/).
+
 * Stefan was [interviewed by the CRA](https://sparc.cra.org/unveiling-patterns-undergraduate-ventures-into-statistically-significant-pattern-mining/)
     about doing research with the Data Mammoths.
 
@@ -94,35 +98,42 @@ Mammoths student/alumni authors in *italics*.
 
 [//]: # "Comment: alphabetical by last name"
 
-* Maryam Abuissa'24 (Spring'22--), algorithms for statistically-sound knowledge
-    discovery.
-
 * Michelle Contreras Catalan'25 (Fall'22--), algorithms for statistically-sound
     knowledge discovery.
 
-* Daniel Flores-Garcia'24 (Spring'23--), honors thesis on algorithms for
-    statistically-sound knowledge discovery.
+* Hena Ershadi'26 (Spring'24--), FPGA acceleration for statistically-sound
+    knowledge discovery (together with [Lillian
+    Pentecost](https://lpentecost.github.io/cv/)).
+
+* Wendy Espinosa'25 (Spring'24--), relational database for the [Clotfelter
+    Lab](https://www.clotfelterlab.org/).
+
+* Daniel Flores-Garcia'24 (Spring'23--), honors thesis on generating Afro-Cuban
+    drum patterns with deep learning.
 
 * Hailin (Angelica) Kim'24 (Spring'23--), algorithms for statistically-sound
     knowledge discovery. Honors thesis on causal discovery
 
-* Ris Paulino'25 (Summer'23--), a database for a museum
-
 * Sriyash Singhania'26 (Summer'23--), algorithms for statistically-sound
-    knowledge discovery
-
-* Hewan Worku'25 (Summer'23--), algorithms for statistically-sound
-    knowledge discovery
+    knowledge discovery, relational database for the
+    [Follette Lab](https://www.follettelab.com/).
 
 * Sarah Wu (Summer'23--), a database for a museum
-
 
 ### Alumni
 
 [//]: # "Comment: Most recent first, then alphabetical by last name"
 
+* Maryam Abuissa'24 (Spring'22--Spring'24), algorithms for statistically-sound
+    knowledge discovery.
+
+* Hewan Worku'25 (Summer'23--Spring'24), algorithms for statistically-sound
+    knowledge discovery
+
+* Ris Paulino'25 (Summer'23--Spring'24), a database for a museum
+
 * Wanting (Sherry) Jiang'25 (Spring'23), database design for educational
-    surveys.
+    surveys, and algorithms for statistically-sound knowledge discovery.
 
 * Sarah Park'23 (Summer'22--Spring'23), honors thesis (cum laude) on
      higher-power methods for statistically-significant patterns.
