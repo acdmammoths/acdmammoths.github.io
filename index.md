@@ -38,6 +38,11 @@ or taking an independent study course (COSC-490) with Matteo.
 
 ## <a id="news"></a> News
 
+* Alex and Maryam both received [2024 NSF
+    GRFPs](https://www.research.gov/grfp/AwardeeList.do?method=sort&page=1) to
+    support 3 years of their PhD studies, which they are both starting in
+    September.
+
 * Maryam received a honorable mention for the [2024 CRA Outstanding
     Undergraduate Researcher
     Award](https://cra.org/about/awards/outstanding-undergraduate-researcher-award/).
