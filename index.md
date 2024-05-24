@@ -224,6 +224,6 @@ Matteo. Here's an [interview with a former Data
 Mammoth](https://sparc.cra.org/unveiling-patterns-undergraduate-ventures-into-statistically-significant-pattern-mining/)
 about what the experience could look like.
 
-## 🐘 💜 💾  We love data!
+## 🦣 💜 💾  We love data!
 
 [//]: # "Comment: :elephant: :purple_heart: :floppy_disk:"
