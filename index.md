@@ -38,10 +38,15 @@ or taking an independent study course (COSC-490) with Matteo.
 
 ## <a id="news"></a> News
 
+* Maryam is starting their PhD at Brown CS in September'24, coadvised by Matteo
+    and [Eli Upfal](https://cs.brown.edu/people/eupfal/).
+
+* Alex is starting their PhD at Brown CS in September'24, advised by [Ugur
+     Cetintemel](https://sites.google.com/a/brown.edu/ugur-cetintemel/).
+
 * Alex and Maryam both received [2024 NSF
     GRFPs](https://www.research.gov/grfp/AwardeeList.do?method=sort&page=1) to
-    support 3 years of their PhD studies, which they are both starting in
-    September.
+    support 3 years of their PhD studies.
 
 * Maryam received a honorable mention for the [2024 CRA Outstanding
     Undergraduate Researcher
@@ -113,17 +118,21 @@ Mammoths student/alumni authors in *italics*.
 * Wendy Espinosa'25 (Spring'24--), relational database for the [Clotfelter
     Lab](https://www.clotfelterlab.org/)
 
-* Daniel Flores-Garcia'24 (Spring'23--), honors thesis on generating Afro-Cuban
-    drum patterns with deep learning
+* Sergei Leonov'27 (Summer'24--), algorithms for statistically-sound
+    knowledge discovery
 
-* Hailin (Angelica) Kim'24 (Spring'23--), algorithms for statistically-sound
-    knowledge discovery. Honors thesis on causal discovery
+* Megan Li'27 (Summer'24--), algorithms for statistically-sound knowledge
+    discovery
+
+* Jordan Perry-Greene'24E (Spring'24--), relational databases for the Religion
+    department library
+
+* Lisa Phan'27 (Summer'24--), algorithms for statistically-sound knowledge
+    discovery
 
 * Sriyash Singhania'26 (Summer'23--), algorithms for statistically-sound
     knowledge discovery, relational database for the
     [Follette Lab](https://www.follettelab.com/)
-
-* Sarah Wu (Summer'23--), a database for a museum
 
 ### Alumni
 
@@ -132,12 +141,20 @@ Mammoths student/alumni authors in *italics*.
 * Maryam Abuissa'24 (Spring'22--Spring'24), algorithms for statistically-sound
     knowledge discovery.
 
-* Hewan Worku'25 (Summer'23--Spring'24), algorithms for statistically-sound
-    knowledge discovery
+* Daniel Flores-Garcia'24 (Spring'23--Spring'24), honors thesis on generating
+    Afro-Cuban drum patterns with deep learning and data augmentation
+
+* Hailin (Angelica) Kim'24 (Spring'23--Spring'24), algorithms for
+    statistically-sound knowledge discovery. Honors thesis on causal discovery
 
 * Ris Paulino'25 (Summer'23--Spring'24), a database for a museum
 
-* Wanting (Sherry) Jiang'25 (Spring'23), database design for educational
+* Hewan Worku'25 (Summer'23--Spring'24), algorithms for statistically-sound
+    knowledge discovery
+
+* Sarah Wu (Summer'23--Spring'24), a database for a museum
+
+* Wanting (Sherry) Jiang'25 (Spring'23-Fall'23), database design for educational
     surveys, and algorithms for statistically-sound knowledge discovery.
 
 * Sarah Park'23 (Summer'22--Spring'23), honors thesis (cum laude) on
