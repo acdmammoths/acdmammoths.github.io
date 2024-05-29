@@ -55,8 +55,9 @@ or taking an independent study course (COSC-490) with Matteo.
 * Stefan was [interviewed by the CRA](https://sparc.cra.org/unveiling-patterns-undergraduate-ventures-into-statistically-significant-pattern-mining/)
     about doing research with the Data Mammoths.
 
-* Maryam and Alex published [ROhAN](https://github.com/acdmammoths/ROhAN-code/raw/main/AbuissaEtAl-ROhAN-DMKD23.pdf) in
-    [DAMI/DMKD](https://link.springer.com/journal/10618).
+* Maryam and Alex published
+    [ROhAN](https://github.com/acdmammoths/ROhAN-code/raw/main/AbuissaEtAl-ROhAN-DMKD23.pdf)
+    in [DAMI/DMKD](https://link.springer.com/journal/10618).
 
 * Stefan was selected as a finalist for the [2023 CRA Outstanding Undergraduate
     Researcher
@@ -71,7 +72,7 @@ Mammoths student/alumni authors in *italics*.
 
 * *Maryam Abuissa*, *Alexander Lee*, and Matteo Riondato. [*ROhAN: Row order
     agnostic null models for statistically-sound knowledge
-    discovery*](https://github.com/acdmammoths/ROhAN-code/blob/main/AbuissaEtAl-ROhAN-DMKD23.pdf).
+    discovery*](https://github.com/acdmammoths/ROhAN-code/raw/main/AbuissaEtAl-ROhAN-DMKD23.pdf).
     Data Mining and Knowledge Discovery ([S.I. for ECML
     PKDD'23](https://link.springer.com/journal/10618/topicalCollection/AC_405d0ca97322bed6d7bb7cf14504b211/page/1)).
     [GitHub repo](https://github.com/acdmammoths/ROhAN-code)
