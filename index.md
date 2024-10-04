@@ -108,7 +108,7 @@ Mammoths student/alumni authors in *italics*.
     Averages*](/pubs/CousinsEtAl-BavarianBetweennessCentralityApproximationWithVarianceAwareRademacherAverages-KDD21.pdf).
     ACM KDD'21.
 
-![The Data* Mammoths in May 2024 -- Jesse Gwilliam ©️ Amherst College](img/May24group.jpg)
+![The Data* Mammoths in May 2024 -- Jesse Gwilliam ©️ Amherst College](img/May24Group.jpg)
 
 ## <a id="members"></a> Members
 
