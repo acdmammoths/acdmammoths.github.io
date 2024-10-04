@@ -108,7 +108,7 @@ Mammoths student/alumni authors in *italics*.
     Averages*](/pubs/CousinsEtAl-BavarianBetweennessCentralityApproximationWithVarianceAwareRademacherAverages-KDD21.pdf).
     ACM KDD'21.
 
-![The Data* Mammoths in May 2023 -- Jesse Gwilliam ©️ Amherst College](img/May23Group.jpg)
+![The Data* Mammoths in May 2024 -- Jesse Gwilliam ©️ Amherst College](img/May24group.jpg)
 
 ## <a id="members"></a> Members
 
@@ -218,7 +218,7 @@ Mammoths student/alumni authors in *italics*.
     thesis (magna cum laude, 2020 Computer Science Prize) on *"A Parallel
     Algorithm for Balanced Sampling"*.
 
-![The Data* Mammoths T-Shirt](img/datamammothstshirt.png)
+![The Data* Mammoths in May 2023 -- Jesse Gwilliam ©️ Amherst College](img/May23Group.jpg)
 
 ## <a id="join"></a> How to join
 
@@ -234,5 +234,7 @@ Mammoth](https://sparc.cra.org/unveiling-patterns-undergraduate-ventures-into-st
 about what the experience could look like.
 
 ## 🦣 💜 💾  We love data!
+
+![The Data* Mammoths T-Shirt](img/datamammothstshirt.png)
 
 [//]: # "Comment: :elephant: :purple_heart: :floppy_disk:"
