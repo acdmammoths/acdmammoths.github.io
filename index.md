@@ -38,11 +38,14 @@ or taking an independent study course (COSC-490) with Matteo.
 
 ## <a id="news"></a> News
 
+* Daniel published a version of his honors thesis in
+    [AudioMostly'24](https://audiomostly.com/).
+
 * Maryam is starting their PhD at Brown CS in September'24, coadvised by Matteo
     and [Eli Upfal](https://cs.brown.edu/people/eupfal/).
 
 * Alex is starting their PhD at Brown CS in September'24, advised by [Ugur
-     Cetintemel](https://sites.google.com/a/brown.edu/ugur-cetintemel/).
+    Cetintemel](https://sites.google.com/a/brown.edu/ugur-cetintemel/).
 
 * Alex and Maryam both received [2024 NSF
     GRFPs](https://www.research.gov/grfp/AwardeeList.do?method=sort&page=1) to
@@ -69,6 +72,11 @@ or taking an independent study course (COSC-490) with Matteo.
 
 ## <a id="pubs"></a> Publications with Mammoths student authors
 Mammoths student/alumni authors in *italics*.
+
+* *Daniel Flores-Garcia*, Hugo Flores Garcia, and Matteo Riondato. [ClaveNet:
+    Generating Afro-Cuban Drum Patterns through Data Augmentation](),
+    AM '24: Proceedings of the 19th International Audio Mostly Conference:
+    Explorations in Sonic Cultures, 355–361.
 
 * *Maryam Abuissa*, *Alexander Lee*, and Matteo Riondato. [*ROhAN: Row order
     agnostic null models for statistically-sound knowledge
@@ -112,13 +120,6 @@ Mammoths student/alumni authors in *italics*.
 * Michelle Contreras Catalan'25 (Fall'22--), algorithms for statistically-sound
     knowledge discovery
 
-* Hena Ershadi'26 (Spring'24--), FPGA acceleration for statistically-sound
-    knowledge discovery (together with [Lillian
-    Pentecost](https://lpentecost.github.io/cv/))
-
-* Wendy Espinosa'25 (Spring'24--), relational database for the [Clotfelter
-    Lab](https://www.clotfelterlab.org/)
-
 * Sergei Leonov'27 (Summer'24--), algorithms for statistically-sound
     knowledge discovery
 
@@ -128,16 +129,23 @@ Mammoths student/alumni authors in *italics*.
 * Jordan Perry-Greene'24E (Spring'24--), relational databases for the Religion
     department library
 
-* Lisa Phan'27 (Summer'24--), algorithms for statistically-sound knowledge
-    discovery
-
-* Sriyash Singhania'26 (Summer'23--), algorithms for statistically-sound
-    knowledge discovery, relational database for the
-    [Follette Lab](https://www.follettelab.com/)
-
 ### Alumni
 
 [//]: # "Comment: Most recent first, then alphabetical by last name"
+
+* Lisa Phan'27 (Summer'24), algorithms for statistically-sound knowledge
+    discovery
+
+* Wendy Espinosa'25 (Spring'24), relational database for the [Clotfelter
+    Lab](https://www.clotfelterlab.org/)
+
+* Hena Ershadi'26 (Spring'24--Summer'24), FPGA acceleration for
+   statistically-sound knowledge discovery (together with [Lillian
+   Pentecost](https://lpentecost.github.io/cv/))
+
+* Sriyash Singhania'26 (Summer'23--Spring'24), algorithms for statistically-sound
+    knowledge discovery, relational database for the
+    [Follette Lab](https://www.follettelab.com/)
 
 * Maryam Abuissa'24 (Spring'22--Spring'24), algorithms for statistically-sound
     knowledge discovery.
