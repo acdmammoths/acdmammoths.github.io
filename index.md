@@ -73,8 +73,8 @@ or taking an independent study course (COSC-490) with Matteo.
 ## <a id="pubs"></a> Publications with Mammoths student authors
 Mammoths student/alumni authors in *italics*.
 
-* *Daniel Flores-Garcia*, Hugo Flores Garcia, and Matteo Riondato. [ClaveNet:
-    Generating Afro-Cuban Drum Patterns through Data Augmentation](),
+* *Daniel Flores-Garcia*, Hugo Flores Garcia, and Matteo Riondato. [*ClaveNet:
+    Generating Afro-Cuban Drum Patterns through Data Augmentation*](),
     AM '24: Proceedings of the 19th International Audio Mostly Conference:
     Explorations in Sonic Cultures, 355–361.
 
