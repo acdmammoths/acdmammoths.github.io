@@ -126,8 +126,8 @@ Mammoths student/alumni authors in *italics*.
 * Megan Li'27 (Summer'24--), algorithms for statistically-sound knowledge
     discovery
 
-* Jordan Perry-Greene'24E (Spring'24--), relational databases for the Religion
-    department library
+* Jordan Perry-Greene'24E (Spring'24--), relational databases and websites for
+    research groups and department libraries
 
 ### Alumni
 
