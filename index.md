@@ -242,3 +242,8 @@ about what the experience could look like.
 ![The Data* Mammoths T-Shirt](img/datamammothstshirt.png)
 
 [//]: # "Comment: :elephant: :purple_heart: :floppy_disk:"
+
+<!--
+Hidden mastodon link for verification =)
+<a rel="me" href="https://bsd.network/@matteo">@matteo@bsd.network</a>
+-->
