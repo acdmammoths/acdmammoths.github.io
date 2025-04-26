@@ -38,6 +38,10 @@ or taking an independent study course (COSC-490) with Matteo.
 
 ## <a id="news"></a> News
 
+* Maryam was [interviewed by the
+    CRA](https://cra.org/crn/2024/10/securing-machine-learning-with-sequestered-encryption-on-gpu-hardware/)
+    about their experience as a young researcher.
+
 * Daniel published a version of his honors thesis in
     [AudioMostly'24](https://audiomostly.com/).
 
