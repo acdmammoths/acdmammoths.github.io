@@ -121,21 +121,21 @@ Mammoths student/alumni authors in *italics*.
 
 [//]: # "Comment: alphabetical by last name"
 
-* Michelle Contreras Catalan'25 (Fall'22--), algorithms for statistically-sound
-    knowledge discovery
-
-* Sergei Leonov'27 (Summer'24--), algorithms for statistically-sound
-    knowledge discovery
-
 * Megan Li'27 (Summer'24--), algorithms for statistically-sound knowledge
     discovery
-
-* Jordan Perry-Greene'24E (Spring'24--), relational databases and websites for
-    research groups and department libraries
 
 ### Alumni
 
 [//]: # "Comment: Most recent first, then alphabetical by last name"
+
+* Michelle Contreras Catalan'25 (Fall'22--Spring'25), algorithms for
+    statistically-sound knowledge discovery
+
+* Sergei Leonov'27 (Summer'24--Spring'25), algorithms for statistically-sound
+    knowledge discovery
+
+* Jordan Perry-Greene'24E (Spring'24--Fall'24), relational databases and websites
+    for research groups and department libraries
 
 * Lisa Phan'27 (Summer'24), algorithms for statistically-sound knowledge
     discovery
