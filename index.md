@@ -81,10 +81,12 @@ or taking an independent study course (COSC-490) with Matteo.
 ## <a id="pubs"></a> Publications with Mammoths student authors
 Mammoths student/alumni authors in *italics*.
 
-* *Michelle Contreras-Catalan*, and Mattteo Riondato. *HomeRun: Performing
+* *Michelle Contreras-Catalan*, and Matteo Riondato. [*HomeRun: Performing
     Curveball Trades quasi in Streaming for Fast Null Modeling of Graphs,
-     Hypergraphs, and Binary Matrices*. Proceedings of the 2026 ACM Web
-     Conference (to appear).
+     Hypergraphs, and Binary
+     Matrices*](https://rionda.to/papers/ContrerasCatalanRiondato-HomeRun-WWW.pdf).
+     Proceedings of the 2026 ACM Web Conference, 662–673. [Code
+     repo](https://doi.org/10.7910/DVN/OIECJF)
 
 * *Daniel Flores-Garcia*, Hugo Flores Garcia, and Matteo Riondato. [*ClaveNet:
     Generating Afro-Cuban Drum Patterns through Data Augmentation*](),
