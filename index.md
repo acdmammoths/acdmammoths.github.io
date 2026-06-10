@@ -148,8 +148,8 @@ Mammoths student/alumni authors in *italics*.
 * Jordan Perry-Greene'24E (Spring'24--Fall'24), relational databases and websites
     for research groups and department libraries
 
-* Lisa Phan'27 (Summer'24), algorithms for statistically-sound knowledge
-    discovery
+* Lisa Phan'27 (Summer'24), daily exercise autograding support for the
+    introduction to computer science course
 
 * Wendy Espinosa'25 (Spring'24), relational database for the [Clotfelter
     Lab](https://www.clotfelterlab.org/)
