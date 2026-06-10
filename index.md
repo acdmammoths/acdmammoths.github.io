@@ -132,6 +132,9 @@ Mammoths student/alumni authors in *italics*.
 
 [//]: # "Comment: alphabetical by last name"
 
+* Annabelle Chen'27 (Summer'26--), honors thesis on parallel algorithms for
+    knowledge discovery
+
 * Megan Li'27 (Summer'24--), algorithms for statistically-sound knowledge
     discovery
 
