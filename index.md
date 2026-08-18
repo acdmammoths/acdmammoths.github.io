@@ -3,8 +3,9 @@
 ### [News](#news)    [Publications](#pubs)    [Members](#members)    [How to join?](#join)
 
 We are a **research and learning** group led by [Prof. Matteo
-Riondato](http://matteo.rionda.to) at [Amherst College](https://www.amherst.edu),
-mostly in the [Computer Science](https://cs.amherst.edu) department.
+Riondato](https://matteo.rionda.to) at [Amherst
+College](https://www.amherst.edu), mostly in the [Computer
+Science](https://cs.amherst.edu) department.
 
 We create and learn about algorithms for *"everything data"*:[^1] data mining,
 network science, machine learning, data science, knowledge discovery, databases,
@@ -127,7 +128,7 @@ Mammoths student/alumni authors in *italics*.
 
 ## <a id="members"></a> Members
 
-* (Prof.) [Matteo](http://matteo.rionda.to) (Riondato),
+* (Prof.) [Matteo](https://matteo.rionda.to) (Riondato),
     [mahout](https://en.wikipedia.org/wiki/Mahout) of the herd.
 
 [//]: # "Comment: alphabetical by last name"
